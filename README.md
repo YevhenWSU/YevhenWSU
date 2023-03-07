@@ -8,8 +8,8 @@
 
 ### 🔨 Skills:
 <table>
-  <tr style="vertical-align: top">
-    <td>
+  <tr>
+    <td valign="top">
       <b>Languages and Frameworks:</b>
       <hr />
       <img height="15" width="15" src="https://cdn.simpleicons.org/javascript"/> Javascript <br/>
@@ -17,7 +17,7 @@
       <img height="15" width="15" src="https://cdn.simpleicons.org/react"/> React <br/>
       <img height="15" width="15" src="https://cdn.simpleicons.org/vue.js"/> Vue <br/>
     </td>
-    <td>
+    <td valign="top">
       <b>Technologies:</b>
       <hr />
       <img height="15" width="15" src="https://cdn.simpleicons.org/html5"/> HTML <br/>
